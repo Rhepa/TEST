@@ -28,3 +28,12 @@ body, html {
 
 
 }
+.frame1{
+  height: 500px;
+  box-sizing: border-box;
+ border:  10px solid white;
+ background-color: white;
+  margin: auto;
+  position:relative;
+  border-radius: 20px;
+}
